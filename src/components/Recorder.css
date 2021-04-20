@@ -1,0 +1,9 @@
+.LeftAligned {
+    padding: 10px;
+}
+
+.InputRow {
+    display: flex;
+    align-items: center;
+    height: 32px;
+}
